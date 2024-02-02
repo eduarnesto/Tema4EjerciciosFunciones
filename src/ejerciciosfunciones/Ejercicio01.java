@@ -1,7 +1,15 @@
 package ejerciciosfunciones;
 
+/**
+ * Clase donde sumaremos todos los valores de una tabla y lo mostraremos
+ * @author earnesto 
+ */
 public class Ejercicio01 {
 
+	/**
+	 * Main donde se re
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		//Tabla de numeros enteros
 		int enteros[] = {2, 4, 6, 23, 57};
